@@ -20,8 +20,8 @@
 			</div>
 			<div id="cari">
 				<form>
-					<input id="timkiem" type="text" name="cari" size="30" placeholder="Nh?p thông tin c?n tìm...">
-					<button type="submit" class="button_1">Tìm ki?m</button>
+					<input id="timkiem" type="text" name="cari" size="30" placeholder="Nh?p thÃ´ng tin c?n tÃ¬m...">
+					<button type="submit" class="button_1">TÃ¬m ki?m</button>
 				</form>
 			</div>
 		</div>
@@ -32,20 +32,20 @@
 					<li><a href="index.php">Trang ch?</a></li>
 					<li><a href="#">Tin T?c</a></li>
 						<li class="dropdown">
-							<a href="index.html" class="dropbtn">T? sách</a>
+							<a href="index.html" class="dropbtn">T? sÃ¡ch</a>
 							<div class="dropdown-content">
 						      <a href="#">Van H?c - Ti?u Thuy?t</a>
-						      <a href="#">Khoa H?c - Công Ngh?</a>
-						      <a href="#">L?ch S? - Van Hóa</a>
-						      <a href="#">Tâm Lı - Giáo D?c</a>
+						      <a href="#">Khoa H?c - CÃ´ng Ngh?</a>
+						      <a href="#">L?ch S? - Van HÃ³a</a>
+						      <a href="#">TÃ¢m LÃ½ - GiÃ¡o D?c</a>
 						      <a href="#">Ngo?i Ng?</a>
 						      <a href="#">Kinh T?</a>
 						      <a href="#">K? Nang S?ng</a>
 						    </div>
 						</li>
-					<li><a href="#">Tác gi?</a></li>
+					<li><a href="#">TÃ¡c gi?</a></li>
 					<li><a href="#">Gi?i thi?u</a></li>
-					<li><a href="#">Liên h?</a></li>
+					<li><a href="#">LiÃªn h?</a></li>
 				</ul>
 			</div>
 		</div>
@@ -55,7 +55,7 @@
 				<img src="images/banner1.jpg" alt="error" title="slider bohongan">
 			</div>
 			<div class="marquee">
-				<span id="font">* Chào m?ng các b?n dã d?n v?i th? gi?i phiêu luu c?a nh?ng trang sách *</span>
+				<span id="font">* ChÃ o m?ng cÃ¡c b?n dÃ£ d?n v?i th? gi?i phiÃªu luu c?a nh?ng trang sÃ¡ch *</span>
 			</div>
 		</div>
 	</div>
@@ -64,39 +64,39 @@
 		<!--/content_top/-->
 		<div id="content_top">
 			<h4>We will show you the way to success!</h4>
-			<p>It’s a quarter after seven. This phrase is one of the most common ways of stating this time. It means: “It’s 15 minutes past 7:00.” Another possibility here is to simply say: “It’s seven fifteen.” In general you can say: “It’s a quarter past the hour.” Have you ever thought about chucking it all and moving to a place where the greenback goes farther? Though many of us do, the spots we used to consider cheap—the Bahamas in the 1970s, Paris in the ’60s—aren’t so inexpensive now. Don’t worry. There are still plenty of places where the slightly well-heeled can live comfortably without giving up an arm and a leg. </p>
+			<p>Itâ€™s a quarter after seven. This phrase is one of the most common ways of stating this time. It means: â€œItâ€™s 15 minutes past 7:00.â€ Another possibility here is to simply say: â€œItâ€™s seven fifteen.â€ In general you can say: â€œItâ€™s a quarter past the hour.â€ Have you ever thought about chucking it all and moving to a place where the greenback goes farther? Though many of us do, the spots we used to consider cheapâ€”the Bahamas in the 1970s, Paris in the â€™60sâ€”arenâ€™t so inexpensive now. Donâ€™t worry. There are still plenty of places where the slightly well-heeled can live comfortably without giving up an arm and a leg. </p>
 		</div>
 		<!--/content_center/-->
 		<div id="content_center">
 			<div class="cc_news">
-				<h4>Sách bán ch?y</h4>
+				<h4>SÃ¡ch bÃ¡n ch?y</h4>
 				<img src="images/lichsu.jpg">
-					<a href="page.php">Thu Pháp Vi?t Nam</a> <br/>
-						Tác gi?: Nguy?n S? <br/>
+					<a href="page.php">Thu PhÃ¡p VietNam</a> <br/>
+						TÃ¡c gi?: Nguy?n S? <br/>
 						D?ch gi?: <br/>
-						NXB liên k?t: Th? Gi?i <br/>
-						Giá bìa: 169.000 VND<br/>
+						NXB liÃªn k?t: Th? Gi?i <br/>
+						GiÃ¡ bÃ¬a: 169.000 VND<br/>
 						S? trang: 285<br/>
 					<a href="#">Read more</a>
 			</div>
 			<div class="cc_news">
-				<h4>Sách M?i</h4>
+				<h4>SÃ¡ch M?i</h4>
 				<img src="images/chantroi.jpg">
-				<p>It’s a quarter after seven. This phrase is one of the most common ways of stating...
+				<p>Itâ€™s a quarter after seven. This phrase is one of the most common ways of stating...
 				<a href="#">Read more</a>
 				</p>
 			</div>		
 			<div class="cc_news">
-				<h4>Sách Tâm Lı</h4>
+				<h4>SÃ¡ch TÃ¢m LÃ½</h4>
 				<img src="images/hanoi.jpg">
-				<p>It’s a quarter after seven. This phrase is one of the most common ways of stating...
+				<p>Itâ€™s a quarter after seven. This phrase is one of the most common ways of stating...
 				<a href="#">Read more</a>
 				</p>
 			</div>
 			<div class="cc_news">
 				<h4>Van H?c</h4>
 				<img src="images/dacula.jpg">
-				<p>It’s a quarter after seven. This phrase is one of the most common ways of stating...
+				<p>Itâ€™s a quarter after seven. This phrase is one of the most common ways of stating...
 				<a href="#">Read more</a>
 				</p>
 			</div>		
@@ -105,14 +105,14 @@
 		<!--/content_bottom/-->
 		<div id="content_bottom">
 			<div class="cb_news">
-				<h4>GI?I THI?U SÁCH M?I</h4>
+				<h4>GI?I THI?U SÃCH M?I</h4>
 				<img src="images/slide5.jpg">
-				<p>It’s a quarter after seven. This phrase is one of the most common ways of stating this time. It means: “It’s 15 minutes past 7:00.”</p>
+				<p>Itâ€™s a quarter after seven. This phrase is one of the most common ways of stating this time. It means: â€œItâ€™s 15 minutes past 7:00.â€</p>
 				<ul>
-					<li><a href="#">Ti?n li?u có mua du?c h?nh phúc? (06/01/2017)</a></li>
-					<li><a href="#">Nguy?n Van Huyên và cu?c du hành trong 'Van minh Vi?t Nam' (05/01/2017)</a></li>
-					<li><a href="#">Vun d?p c?m xúc cho bé yêu ngay t? trong b?ng m? (05/01/2017)</a></li>
-					<li><a href="#">Cu?n ti?u thuy?t hi?n d?i d?u tiên c?a van h?c mi?n B?c (05/01/2017)</a></li>
+					<li><a href="#">Ti?n li?u cÃ³ mua du?c h?nh phÃºc? (06/01/2017)</a></li>
+					<li><a href="#">Nguy?n Van HuyÃªn vÃ  cu?c du hÃ nh trong 'Van minh Vi?t Nam' (05/01/2017)</a></li>
+					<li><a href="#">Vun d?p c?m xÃºc cho bÃ© yÃªu ngay t? trong b?ng m? (05/01/2017)</a></li>
+					<li><a href="#">Cu?n ti?u thuy?t hi?n d?i d?u tiÃªn c?a van h?c mi?n B?c (05/01/2017)</a></li>
 				</ul>
 			</div>
 		</div>
@@ -121,20 +121,20 @@
 	<!-- Sidebar -->
 	<aside class="top-sidebar">
 		<article>
-			<h3>Sách bán ch?y trong tháng</h3>
+			<h3>SÃ¡ch bÃ¡n ch?y trong thÃ¡ng</h3>
 			<p>
 				<ul>
-					<li><a href="#">CÓ M?T PH? V?A ĞI QUA PH?</a></li>
-					<li><a href="#">M?T NGÀY C?A B?</a></li>
-					<li><a href="#">M?T MÌNH ? CHÂU ÂU</a></li>
-					<li><a href="#">CÔ GÁI NAM ?Y CHÚNG TA CÙNG...</a></li>
-					<li><a href="#">CON ĞU?NG STEVE JOBS</a></li>
+					<li><a href="#">CÃ“ M?T PH? V?A ÃI QUA PH?</a></li>
+					<li><a href="#">M?T NGÃ€Y C?A B?</a></li>
+					<li><a href="#">M?T MÃŒNH ? CHÃ‚U Ã‚U</a></li>
+					<li><a href="#">CÃ” GÃI NAM ?Y CHÃšNG TA CÃ™NG...</a></li>
+					<li><a href="#">CON ÃU?NG STEVE JOBS</a></li>
 				</ul>
-			<p>You have the world available to you, and there are plenty of options for international exploration. Don’t worry. There are still plenty of places where the slightly well-heeled can live comfortably without giving up an arm and a leg.</p>
+			<p>You have the world available to you, and there are plenty of options for international exploration. Donâ€™t worry. There are still plenty of places where the slightly well-heeled can live comfortably without giving up an arm and a leg.</p>
 		</article>
 	</aside>
 	<aside class="middle-sidebar">
-			<!--<h3>Ğang Nh?p</h3>
+			<!--<h3>Ãang Nh?p</h3>
 			<form class="quote">
 				<div>
 					<p>Username</p>
@@ -145,29 +145,29 @@
 					<input type="Password" placeholder="*********">
 				</div>
 				<br>
-				<button class="button_1" type="submit">Ğang Nh?p</button>
+				<button class="button_1" type="submit">Ãang Nh?p</button>
 			</form>-->
 			<div class="row">
 				<div class="col-md-12">
 					<div class="panel panel-default">
 						<div class="panel-heading">
-							<h4>Ğang nh?p</h4>
+							<h4>Ãang nh?p</h4>
 						</div>
 						<div class="panel-body">
 							<form id="form-login" action="" method="POST" role="form">
 							<div id="errors">
 								</div>
 								<div class="form-group">
-									<label for="">Tên dang nh?p</label>
-									<input type="text" class="form-control" id="username" placeholder="Nh?p vào tên dang nh?p">
+									<label for="">TÃªn dang nh?p</label>
+									<input type="text" class="form-control" id="username" placeholder="Nh?p vÃ o tÃªn dang nh?p">
 								</div>
 								<div class="form-group">
 									<label for="">M?t kh?u</label>
-									<input type="text" class="form-control" id="password" placeholder="Nh?p vào m?t kh?u">
+									<input type="text" class="form-control" id="password" placeholder="Nh?p vÃ o m?t kh?u">
 								</div>
 								
 							
-								<button type="submit" class="btn btn-primary">Ğang nh?p</button>
+								<button type="submit" class="btn btn-primary">Ãang nh?p</button>
 							</form>
 						</div>
 					</div>
