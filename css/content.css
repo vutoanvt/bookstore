@@ -1,0 +1,11 @@
+.content_page{
+	text-align: justify;
+	overflow:hidden;
+	padding-bottom: 30px;
+	border-bottom: solid 2px #ededed;
+}
+.content_page img{
+	margin-right: 10px;
+	border-radius: 5px;
+	float:left;
+}
